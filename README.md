@@ -2,7 +2,7 @@
 
 A search app built using Vanilla JS, Sass and Wikipedia API.
 
-![screenshot](https://raw.githubusercontent.com/ankitsaxena21/search-wiki/main/Screenshot%202021-10-01%20at%202.59.59%20PM.png)
+![screenshot](https://raw.githubusercontent.com/ankitsaxena21/search-wiki/main/Screenshot%202021-10-01%20at%203.00.40%20PM.png)
 
 ## 📌Contributing Guidelines :
 
